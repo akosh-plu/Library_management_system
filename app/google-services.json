@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079225736968",
+    "project_id": "unit-converter-767a7",
+    "storage_bucket": "unit-converter-767a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079225736968:android:ea5ce210ad4f93eee816bd",
+        "android_client_info": {
+          "package_name": "com.example.unit_converter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPVm4vyRq_XV5-eGVppuWGxj0RvrUrpN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
