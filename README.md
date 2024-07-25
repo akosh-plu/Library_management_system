@@ -1,7 +1,7 @@
-#Library management system
+# Library management system
 
 
-##The application should allow you to add, delete, search and display books. Each book must contain the following fields:
+## The application should allow you to add, delete, search and display books. Each book must contain the following fields:
 
 
 - id (unique identifier, generated automatically)
